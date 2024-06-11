@@ -113,6 +113,7 @@ body{
   max-width: 100%;
   display: flex;
   justify-content: space-between;
+  overflow-x: scroll;
 }
 .list-conatiner{
   margin-top: 20px;
